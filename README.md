@@ -5,6 +5,7 @@
      and to also be a source of inspiration to upcoming programmers 
 - 📫 How to reach me 
   Twitter: @coderio97
+  Linkedin: @coderio97
   Behance: @coderio97
   Follow my Facebook page, just search 
   Code RIO
