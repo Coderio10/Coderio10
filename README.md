@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with people to solve problems 
 - 📫 How to reach me kayodeanointed@gmail.com 
   
+![Coderio10 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coderio10 &theme=dark&hide_border=true)
 
 <!---
 Coderio10/Coderio10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
