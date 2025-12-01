@@ -1,4 +1,3 @@
-```markdown
 # Hi — I’m Code Rio 👋
 
 I’m a front-end developer who builds accessible, performant, and user-centered web experiences using modern web technologies (HTML, CSS, JavaScript, TypeScript, React). This profile highlights my favorite projects and shows how to run them locally, what I learned building them, and next steps I’m taking to level up.
