@@ -20,23 +20,6 @@
 </p>
 <!-- SKILLS:END -->
 
-<!-- GITHUB_STATS:START -->
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Coderio10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coderio10&show_icons=true&include_all_commits=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe" alt="Coderio's github stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Coderio10">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderio10&layout=compact&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- GITHUB_STATS:END -->
-
 <!---
 Coderio10/Coderio10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
