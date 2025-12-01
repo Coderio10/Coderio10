@@ -1,85 +1,111 @@
+```markdown
 # Hi — I’m Code Rio 👋
 
-I’m a front-end developer focused on building accessible, performant, and user-centered web applications. I enjoy turning complex problems into elegant UI experiences using modern web technologies.
+I’m a front-end developer who builds accessible, performant, and user-centered web experiences using modern web technologies (HTML, CSS, JavaScript, TypeScript, React). This profile highlights my favorite projects and shows how to run them locally, what I learned building them, and next steps I’m taking to level up.
 
-- 🔭 Currently building: production-ready React/TypeScript web apps and component libraries  
-- 🌱 Learning: advanced React patterns, performance optimization, and accessibility at scale  
-- 📫 Reach me: kayodeanointed@gmail.com | https://www.linkedin.com/in/anointedkayode  
-- ⚡ Fun fact: I pair design thinking with code — I write documented components that designers and engineers can reuse.
+- 🔭 Currently building: component-driven React apps and polished portfolio experiences  
+- 🌱 Learning: advanced React patterns, performance optimization, and accessibility (a11y)  
+- 📫 Reach me: kayodeanointed@gmail.com | https://www.linkedin.com/in/anointedkayode
 
 ---
 
 ## Featured projects
-(Replace placeholders below with your repo links and a one-line description for each. Send me the list and I’ll fill these in.)
 
-- Project: [project-repo-name](https://github.com/your-username/project-repo-name)  
-  Short description: One-sentence summary of the UI or product.  
-  Tech: React, TypeScript, CSS-in-JS (or Tailwind), Vite/Next.js  
-  Highlights:
-  - Live demo: https://your-demo.example
-  - Key feature: e.g., accessible UI components, performance optimizations, or complex state management
-  - How I measured success: Lighthouse score, user metric, or load time improvement
+Below are three projects I maintain. Each entry includes the tech used, how to run it locally, and the core things I focused on while building it.
 
-- Project: [project-repo-name-2](https://github.com/your-username/project-repo-name-2)  
-  Short description: One-sentence summary.  
-  Tech: HTML, CSS, JavaScript/TypeScript  
-  Highlights:
-  - Responsive UI and accessibility improvements
-  - Unit + integration tests, GitHub Actions CI
-  - Short recorded walkthrough link (optional)
+### 1) tobi-portfolio
+Repo: https://github.com/Coderio10/tobi-portfolio  
+Short: Personal portfolio website showcasing projects, contact info, and case studies.
 
-- Algorithms & UI Patterns: [algorithms](https://github.com/your-username/algorithms)  
-  Short description: Curated solutions, recipe components, or common patterns in UI code.  
-  Tech: TypeScript, Jest, Storybook
+Tech
+- React, TypeScript (or JavaScript), CSS / Tailwind (or plain CSS), Vite / Create React App (adjust per repo)
+
+What I focused on
+- Clear, responsive layout that highlights projects and case studies
+- Fast load time and good Lighthouse score (images optimized, code-splitting)
+- Reusable components for project cards, contact form, and navigation
+
+How to run locally
+1. git clone https://github.com/Coderio10/tobi-portfolio.git  
+2. cd tobi-portfolio  
+3. npm install  
+4. npm run dev (or npm start)  
+5. Open http://localhost:5173 (or the dev server URL shown)
 
 ---
 
-## Skills
+### 2) Study-CSC
+Repo: https://github.com/Coderio10/Study-CSC  
+Short: Study resource repo for core computer science concepts — notes, examples, and small demos.
 
-- Core: HTML, CSS, JavaScript, TypeScript, React  
-- Styling: CSS Modules, Tailwind, styled-components, BEM  
-- Tooling: Git, GitHub, Vite, Webpack, ESBuild, npm/yarn  
-- Testing: Jest, React Testing Library, Cypress (E2E)  
-- Performance & QA: Lighthouse, Web Vitals, accessibility (a11y) testing  
-- Deployment: GitHub Pages, Netlify, Vercel, basic CI with GitHub Actions
+Tech
+- Markdown, HTML, JavaScript, TypeScript examples, possibly React demos
+
+What I focused on
+- Curating concise, example-driven notes for common CS topics
+- Small interactive examples to illustrate algorithms and data structures
+- Readme-style documentation so others can learn quickly
+
+How to run locally
+- If it's a static site:
+  1. git clone https://github.com/Coderio10/Study-CSC.git  
+  2. cd Study-CSC  
+  3. Open the markdown files in your editor or run a local markdown server (live-server / docs script)
+- If it contains a React app:
+  1. npm install  
+  2. npm run dev
+---
+
+### 3) Acceede_clone
+Repo: https://github.com/Coderio10/Acceede_clone  
+Short: Front-end clone of the Acceede landing/product site — practice in pixel-perfect layout and responsive behavior.
+
+Tech
+- HTML, CSS (Flexbox/Grid), JavaScript or minimal React
+
+What I focused on
+- Pixel-accurate layout and responsive breakpoints
+- Recreating interactive UI elements (menus, modals, carousels) from the original
+- Cross-browser compatibility and small performance optimizations
+
+How to run locally
+1. git clone https://github.com/Coderio10/Acceede_clone.git  
+2. cd Acceede_clone  
+3. Open index.html in a browser OR run a simple HTTP server:
+   - npx http-server .  
+   - Open http://localhost:8080
+
+## Skills & Tools
+- Core: HTML5, CSS3, JavaScript (ES6+), TypeScript, React  
+- Styling: CSS Modules, Tailwind CSS, styled-components, responsive design, Flexbox, Grid  
+- Tooling: Git, GitHub, Vite / CRA, npm / yarn, ESLint, Prettier  
+- Testing: Jest, React Testing Library, Cypress (end-to-end)  
+- Performance & Accessibility: Lighthouse, Web Vitals, axe-core
 
 ---
 
 ## How I present projects (what to expect)
-For each featured repo I aim to include:
-- Live demo or deployment link
-- Short README with a one-line summary, tech stack, and setup instructions
-- Architecture explanation or component breakdown
-- Tests and CI status
-- Measurable outcomes (Lighthouse score, responsive performance, or user metric)
-
-This makes it easy for recruiters and collaborators to evaluate front-end craftsmanship quickly.
+For each featured repo I aim to provide:
+- Live demo (Vercel / Netlify) and screenshots/GIFs
+- Clear README with purpose, setup, and usage
+- Component breakdown (key components and why)
+- Tests and CI status (GitHub Actions)
+- Short note on performance & accessibility improvements made
 
 ---
 
-## What I’m learning next
-- Advanced React: Suspense, concurrent rendering, server components  
-- Component libraries & design systems (Storybook, accessible patterns)  
-- Performance engineering: code-splitting, bundle analysis, critical rendering path  
-- Accessibility: WCAG best practices and automated/audit workflows  
-- Front-end infra: edge deployments (Vercel), SSR, and static site optimizations
+## Roadmap & next steps
+- Add Storybook for component-driven documentation across projects  
+- Add automated CI with linting, tests, and a11y checks for each repo  
+- Convert portfolio to TypeScript + add micro-interactions and performance budgets  
+- Build a small end-to-end product (React front-end + simple server) to show full-stack collaboration and deployment
 
 ---
 
-## How to collaborate
-- Browse my pinned repositories for active work.  
-- Open an issue or PR — I welcome feedback and help.  
-- Want to chat about a role or collaboration? Email: kayodeanointed@gmail.com
+## Want to collaborate?
+- Check pinned repos for the latest work.  
+- Found an improvement or bug? Open an issue or send a PR — I review contributions.  
+- Reach out: kayodeanointed@gmail.com
 
----
-
-## Quick checklist to improve repo signal
-- Pin 3–5 top repos (projects you want recruiters to see first).  
-- Add a short demo and screenshot/GIF to each project README.  
-- Add tests and GitHub Actions CI; show passing badges.  
-- Include performance metrics (Lighthouse score, bundle size) and a short note on what you optimized.  
-- Add a small CONTRIBUTING.md if you want external contributions.
-
----
-
-Thanks for visiting — follow my work or reach out if you'd like to collaborate!
+Thanks for stopping by — I update these projects regularly. If you'd like, I can populate the Featured Projects section with demo links, screenshots, and exact commands if you attach each repo's README or tell me which framework and scripts each repo uses.
+```
