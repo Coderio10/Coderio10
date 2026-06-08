@@ -1,110 +1,29 @@
-# Hi — I’m Code Rio 👋
+<h1 align="center">Hi 👋, I'm Anointed Kayode</h1>
+<h3 align="center">A frontend Engineer</h3>
 
-I’m a front-end developer who builds accessible, performant, and user-centered web experiences using modern web technologies (HTML, CSS, JavaScript, TypeScript, React). This profile highlights my favorite projects and shows how to run them locally, what I learned building them, and next steps I’m taking to level up.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderio10" alt="coderio10" /></a> </p>
 
-- 🔭 Currently building: component-driven React apps and polished portfolio experiences  
-- 🌱 Learning: advanced React patterns, performance optimization, and accessibility (a11y)  
-- 📫 Reach me: kayodeanointed@gmail.com | https://www.linkedin.com/in/anointedkayode
+- 🔭 I’m currently building on **component-driven React apps and polished portfolio experiences**
 
----
+- 🌱 I’m currently learning **Gsap and Node.js**
 
-## Featured projects
+- 👯 I’m looking to collaborate on **react.js project**
 
-Below are three projects I maintain. Each entry includes the tech used, how to run it locally, and the core things I focused on while building it.
+- 💬 Ask me about **react.js & gsap**
 
-### 1) tobi-portfolio
-Repo: https://github.com/Coderio10/tobi-portfolio  
-Short: Personal portfolio website showcasing projects, contact info, and case studies.
+- 📫 How to reach me **kayodeanointed@gmail.com**
 
-Tech
-- React, TypeScript (or JavaScript), CSS / Tailwind (or plain CSS), Vite / Create React App (adjust per repo)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anointedkayode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anointedkayode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anointedkayode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anointedkayode" height="30" width="40" /></a>
+</p>
 
-What I focused on
-- Clear, responsive layout that highlights projects and case studies
-- Fast load time and good Lighthouse score (images optimized, code-splitting)
-- Reusable components for project cards, contact form, and navigation
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-How to run locally
-1. git clone https://github.com/Coderio10/tobi-portfolio.git  
-2. cd tobi-portfolio  
-3. npm install  
-4. npm run dev (or npm start)  
-5. Open http://localhost:5173 (or the dev server URL shown)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderio10&show_icons=true&locale=en&layout=compact" alt="coderio10" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderio10&show_icons=true&locale=en" alt="coderio10" /></p>
 
-### 2) Study-CSC
-Repo: https://github.com/Coderio10/Study-CSC  
-Short: Study resource repo for core computer science concepts — notes, examples, and small demos.
-
-Tech
-- Markdown, HTML, JavaScript, TypeScript examples, possibly React demos
-
-What I focused on
-- Curating concise, example-driven notes for common CS topics
-- Small interactive examples to illustrate algorithms and data structures
-- Readme-style documentation so others can learn quickly
-
-How to run locally
-- If it's a static site:
-  1. git clone https://github.com/Coderio10/Study-CSC.git  
-  2. cd Study-CSC  
-  3. Open the markdown files in your editor or run a local markdown server (live-server / docs script)
-- If it contains a React app:
-  1. npm install  
-  2. npm run dev
----
-
-### 3) Acceede_clone
-Repo: https://github.com/Coderio10/Acceede_clone  
-Short: Front-end clone of the Acceede landing/product site — practice in pixel-perfect layout and responsive behavior.
-
-Tech
-- HTML, CSS (Flexbox/Grid), JavaScript or minimal React
-
-What I focused on
-- Pixel-accurate layout and responsive breakpoints
-- Recreating interactive UI elements (menus, modals, carousels) from the original
-- Cross-browser compatibility and small performance optimizations
-
-How to run locally
-1. git clone https://github.com/Coderio10/Acceede_clone.git  
-2. cd Acceede_clone  
-3. Open index.html in a browser OR run a simple HTTP server:
-   - npx http-server .  
-   - Open http://localhost:8080
-
-## Skills & Tools
-- Core: HTML5, CSS3, JavaScript (ES6+), TypeScript, React  
-- Styling: CSS Modules, Tailwind CSS, styled-components, responsive design, Flexbox, Grid  
-- Tooling: Git, GitHub, Vite / CRA, npm / yarn, ESLint, Prettier  
-- Testing: Jest, React Testing Library, Cypress (end-to-end)  
-- Performance & Accessibility: Lighthouse, Web Vitals, axe-core
-
----
-
-## How I present projects (what to expect)
-For each featured repo I aim to provide:
-- Live demo (Vercel / Netlify) and screenshots/GIFs
-- Clear README with purpose, setup, and usage
-- Component breakdown (key components and why)
-- Tests and CI status (GitHub Actions)
-- Short note on performance & accessibility improvements made
-
----
-
-## Roadmap & next steps
-- Add Storybook for component-driven documentation across projects  
-- Add automated CI with linting, tests, and a11y checks for each repo  
-- Convert portfolio to TypeScript + add micro-interactions and performance budgets  
-- Build a small end-to-end product (React front-end + simple server) to show full-stack collaboration and deployment
-
----
-
-## Want to collaborate?
-- Check pinned repos for the latest work.  
-- Found an improvement or bug? Open an issue or send a PR — I review contributions.  
-- Reach out: kayodeanointed@gmail.com
-
-Thanks for stopping by — I update these projects regularly. If you'd like, I can populate the Featured Projects section with demo links, screenshots, and exact commands if you attach each repo's README or tell me which framework and scripts each repo uses.
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderio10&" alt="coderio10" /></p>
