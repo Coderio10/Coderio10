@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anointed Kayode</h1>
 <h3 align="center">A frontend Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderio10" alt="coderio10" /></a> </p>
+<p align="left"> <a href="https://github.com/Coderio10/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderio10" alt="coderio10" /></a> </p>
 
 - 🔭 I’m currently building on **component-driven React apps and polished portfolio experiences**
 
