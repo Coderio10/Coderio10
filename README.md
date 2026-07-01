@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building on **component-driven React apps and polished portfolio experiences**
 
-- 🌱 I’m currently learning **Gsap and Node.js**
+- 🌱 I’m currently learning **Gsap, Next.js and Node.js**
 
 - 👯 I’m looking to collaborate on **react.js project**
 
