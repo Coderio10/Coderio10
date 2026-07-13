@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **react.js project**
 
-- 💬 Ask me about **react.js & gsap**
+- 💬 Ask me about **react.js & Front end development**
 
 - 📫 How to reach me **kayodeanointed@gmail.com**
 
