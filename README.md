@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anointed Kayode</h1>
-<h3 align="center">A frontend Engineer</h3>
+<h3 align="center">A frontend Engineer.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/Coderio10/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderio10" alt="coderio10" /></a> </p> -->
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Gsap, Next.js, and Node.js**
 
-- 👯 I’m looking to collaborate on **react.js project**
+- 👯 I’m looking to collaborate on **react.js project.**
 
-- 💬 Ask me about **react.js & Front end development**
+- 💬 Ask me about **react.js & Front end development.**
 
 - 📫 How to reach me **kayodeanointed@gmail.com**
 
